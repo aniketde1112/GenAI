@@ -1,2 +1,2 @@
 # GenAI
-GenAI applications on Gemini model
+GenAI applications on different Gemini models
